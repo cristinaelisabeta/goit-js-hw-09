@@ -24,4 +24,4 @@ stop.addEventListener('click', () => {
   if ((stop.disabled = true)) {
     start.disabled = false;
   }
-});
+}); 
